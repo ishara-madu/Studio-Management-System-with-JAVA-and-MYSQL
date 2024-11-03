@@ -51,7 +51,7 @@ To set up the Studio Management System:
 
 1. Clone or download the repository.
    ```bash
-   git clone https://github.com/yourusername/studio-management-system.git
+   git clone https://github.com//ishara-madu/Studio-Management-System-with-JAVA-and-MYSQL.git
 2. Set up the MySQL database and configure the connection in the application.
 3. Open the project in NetBeans and run the application.
 
